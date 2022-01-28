@@ -6,6 +6,9 @@
     
 <p align="center"> A selfbot that copies any Discord server without any permissions. </p>
 
+
+<code>pip install -r requirements.txt</code>
+
 ---
 
 
