@@ -3,7 +3,7 @@
 <h3 align="center">Discord Server Cloner </h3>
 
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1">
+    <a href="https://www.youtube.com/channel/UCN2gF33fBTZG2ptiV2TGO0g?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCbfGHhyeHpKXF5rl1cRfvbg&key=AIzaSyDvBOxP4M5Ygutbku6_3whU2YR6xV9KKV8&style=for-the-badge&color=red&labelColor=ce4630&label=Subscribers"/></a> 
     <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
       <img alt="youtube views" title="YouTube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCbfGHhyeHpKXF5rl1cRfvbg&key=AIzaSyDvBOxP4M5Ygutbku6_3whU2YR6xV9KKV8&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
